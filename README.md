@@ -2,7 +2,7 @@
 *Created By [@Ddivyanshu1205](https://github.com/Ddivyanshu1205)*  
 
 ## 🔗 Project Links
-- GitHub Repository: https://github.com/Ddivyanshu1205/twitter-sentiment-analysis
+- GitHub Repository: https://github.com/Ddivyanshu1205/Sentiment-Analyzer-for-Tweets
 - Google Colab Notebook: [Open in Colab](https://colab.research.google.com/drive/1iOWyYQGD2qodlS9e1SJhyNROTB_EVWg-#scrollTo=04t-aFPqaPcA)
 
 ---
